@@ -9,3 +9,9 @@ def hello():
   
 #test function
 hello()
+
+
+
+def greeting():
+  print("i  love you 3000")
+
